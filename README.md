@@ -1,1 +1,1 @@
-![\x1b$@](../../../../../test) \x1b(B ![red](onerror=alert(1)//)
+![\x1b$@](0.png) \x1b(B ![red]( onerror=alert(1)//)
